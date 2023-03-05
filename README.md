@@ -12,7 +12,7 @@
 - Collect & parse `TSE` & `OTC` stock weekly data
 
 ## Related
-
+[stockoala for UNIX](https://github.com/urbao/stockoala)
 
 ## Authors
 - [@urbao](https://www.github.com/urbao)
